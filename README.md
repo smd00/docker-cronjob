@@ -2,7 +2,7 @@
 
 ## Usage:
 ````
-# Build
+# Build ([dynamic] | [light] | [oneline])
 docker build --rm -t smd00/smd00-cron dynamic
 
 # Run
