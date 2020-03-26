@@ -3,7 +3,7 @@
 ## Usage:
 ````
 # Build
-docker build --rm -t smd00/smd00-cron .
+docker build --rm -t smd00/smd00-cron dynamic
 
 # Run
 docker run -it smd00/smd00-cron
